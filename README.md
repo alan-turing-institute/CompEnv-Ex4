@@ -36,8 +36,8 @@ Two of the branches have files that capture the computational environment:
   These will take you to RStudio.
   We recommend you right click and select "Open Link in a New Tab" in order to keep these instructions visible.
 
-* :point_right: Binder for `branch-a`: https://mybinder.org/v2/gh/alan-turing-institute/CompEnv-Ex4/branch-a??urlpath=rstudio
-* :point_right: Binder for `branch-b`: https://mybinder.org/v2/gh/alan-turing-institute/CompEnv-Ex4/branch-b??urlpath=rstudio
+* :point_right: Binder for `branch-a`: https://mybinder.org/v2/gh/alan-turing-institute/CompEnv-Ex4/branch-a?urlpath=rstudio
+* :point_right: Binder for `branch-b`: https://mybinder.org/v2/gh/alan-turing-institute/CompEnv-Ex4/branch-b?urlpath=rstudio
 
   RStudio is an IDE (integrated development environment).
   It has 3 windows
