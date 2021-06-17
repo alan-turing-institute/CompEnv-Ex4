@@ -9,7 +9,7 @@
 There are three branches in this repository.
 
 * `master` : https://github.com/alan-turing-institute/CompEnv-Ex4/tree/master
-* `branch-a` : https://github.com/alan-turing-institute/CompEnv-Ex4/tree/branch-1
+* `branch-a` : https://github.com/alan-turing-institute/CompEnv-Ex4/tree/branch-a
 * `branch-b` : https://github.com/alan-turing-institute/CompEnv-Ex4/tree/branch-b
 
 There's an **identical** analysis.R file in all three branches.
